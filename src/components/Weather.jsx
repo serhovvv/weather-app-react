@@ -23,10 +23,10 @@ const Weather = () => {
     "04n": drizzle_icon,
     "09d": rain_icon,
     "09n": rain_icon,
-    "010d": rain_icon,
-    "010n": rain_icon,
-    "013d": snow_icon,
-    "013n": snow_icon,
+    "10d": rain_icon,
+    "10n": rain_icon,
+    "13d": snow_icon,
+    "13n": snow_icon,
   };
 
   const search = async (city) => {
